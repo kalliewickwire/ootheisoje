@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://araegheaz.okanyurt.com/sitemap.xml
